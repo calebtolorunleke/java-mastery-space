@@ -64,10 +64,4 @@ For every core concept covered:
 
 ## 🚀 How to Run Locally
 
-Clone the repository and run any file via the terminal:
-
-```bash
-git clone [https://github.com/YOUR_GITHUB_USERNAME/java-mastery-space.git](https://github.com/YOUR_GITHUB_USERNAME/java-mastery-space.git)
-cd java-mastery-space/01-java-fundamentals/day-01-personal-introduction
-javac PersonalIntroductionCLI.java
-java PersonalIntroductionCLI
+Clone the repository and run any file via the terminal
